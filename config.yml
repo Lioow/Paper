@@ -2,5 +2,5 @@
 uuid: "c4bc4f64-cbe7-4cf8-b032-fc5a4665c0fe"                       #输入uuid
 tuic_port: "8408"                  #输入端口=确认部署
 hy2_port: "10432"                   #输入端口=确认部署
-reality_port: ""               #输入端口=确认部署
+reality_port: "10432"               #输入端口=确认部署
 sni: "www.bing.com"
